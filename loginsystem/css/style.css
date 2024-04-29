@@ -1,0 +1,13 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+body{
+  background: url("../images/bg1.jpg") no-repeat center center fixed;   
+  -webkit-background-size : cover;
+  -moc-background-size : cover;
+  -o-background-size : cover;
+  background-size : cover;
+  /* opacity: 0.1; */
+}
+
